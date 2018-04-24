@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Это я обнаковенный человек.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+На старости лет решил поделиться, не уврен что полезной, но все таки инфой.
+
+**!!Дисклеймер!!!**
+
+**Не все что то тут есть полезно и несет какуюто нагрузку. Обидеть ни чьи чувства тоже не хоч!**
 
 ### Contact me
 
